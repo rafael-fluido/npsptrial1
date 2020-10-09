@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Accounts_and_Contacts</fullName>
+    <description>First Package</description>
+    <types>
+        <members>Account.Account_Custom</members>
+        <members>Contact.Contact_Compact_Custom</members>
+        <name>CompactLayout</name>
+    </types>
+    <types>
+        <members>Account.Active__c</members>
+        <members>Account.CustomerPriority__c</members>
+        <members>Account.Date__c</members>
+        <members>Account.Donated_Trees_Total__c</members>
+        <members>Account.Field1__c</members>
+        <members>Account.NumberofLocations__c</members>
+        <members>Account.SLAExpirationDate__c</members>
+        <members>Account.SLASerialNumber__c</members>
+        <members>Account.SLA__c</members>
+        <members>Account.Text__c</members>
+        <members>Account.UpsellOpportunity__c</members>
+        <members>Contact.Contact__c</members>
+        <members>Contact.Languages__c</members>
+        <members>Contact.Level__c</members>
+        <members>Contact.Phone__c</members>
+        <members>Contact.contact_checkbox__c</members>
+        <members>Opportunity.Trees__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account_Lightning_Page</members>
+        <members>Contact_Lightning_Page</members>
+        <name>FlexiPage</name>
+    </types>
+    <types>
+        <members>Account-Private Donor</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>Account.Private_Donor</members>
+        <name>RecordType</name>
+    </types>
+    <version>49.0</version>
+</Package>
