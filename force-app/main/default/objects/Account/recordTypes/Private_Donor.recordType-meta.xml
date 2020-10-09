@@ -284,6 +284,21 @@
         </values>
     </picklistValues>
     <picklistValues>
+        <picklist>npo02__SYSTEM_CUSTOM_NAMING__c</picklist>
+        <values>
+            <fullName>Formal_Greeting%5F%5Fc</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Informal_Greeting%5F%5Fc</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Name</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
         <picklist>npsp__Funding_Focus__c</picklist>
         <values>
             <fullName>Animal Welfare</fullName>
