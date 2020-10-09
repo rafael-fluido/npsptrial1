@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Scratch_Contact__c</fullName>
+    <displayFormat>STC-{0000}</displayFormat>
+    <externalId>false</externalId>
+    <label>Scratch Contact</label>
+    <type>AutoNumber</type>
+</CustomField>
